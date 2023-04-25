@@ -1,0 +1,29 @@
+.tp{
+    color: white;
+    margin-left: 30px;
+}
+.tp-card{
+    background: darkslategrey;
+    width: 200px;
+    height: 400px;
+    flex-shrink: 0;
+    margin-left: 20px;
+}
+.mixed{
+    margin-top: 20px;
+    background-color: transparent;
+    color: dodgerblue;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+.info{
+    border-radius: 50%;
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid #fff;
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    margin-left: 100px;
+}

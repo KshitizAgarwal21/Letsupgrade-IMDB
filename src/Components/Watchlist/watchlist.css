@@ -1,0 +1,13 @@
+.signin{
+    background-color: darkgray;
+    border: none;
+    height: 30px;
+    width: 100px;
+    color: dodgerblue;
+    cursor: pointer;
+    border-radius: 2px;
+    
+}
+.centred{
+    text-align: center;
+}

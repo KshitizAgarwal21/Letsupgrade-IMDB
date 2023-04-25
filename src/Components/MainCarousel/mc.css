@@ -1,0 +1,46 @@
+.main-container{
+    margin-top: 50px;
+    width: 900px;
+    background-color: dodgerblue;
+    height: 300px;
+    margin-left: 50px;
+    display: flex;
+    position: relative;
+}
+.upnext{color: white;
+margin-left: 160px;
+display: flex;
+flex-direction: column;}
+.banner img {
+    height: 300px;
+    width: 900px;
+}
+.horizontal-cards{
+    height: 400px;
+    overflow-y: scroll;
+}
+.upnextimg{
+    width: 100px;
+    height: 120px;
+    display: block;
+}
+.hori-card{
+    width: 300px;
+    background-color: white;
+    height: 120px;
+    margin-top: 20px;
+    color: black;
+    display: flex;
+}
+.overlay-title{position: absolute;
+    top: 0;
+    margin: 12px;}
+    .overlay-button-left{position: absolute;
+        top: 100px;
+        color: white;
+        margin: 12px;}
+        .overlay-button-right {position: absolute;
+            color: white;
+            right: 0;
+            top: 100px;
+            margin: 12px;}
